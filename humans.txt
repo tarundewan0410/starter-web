@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- Tarun -- <twitter>
+    <name> -- Tarun Dewan
 
 # THANKS
 

@@ -11,3 +11,4 @@ demos help us to make more mistakes and lear
 ## Recosideration
 
 making the tasks available to be appearing in the staging and the development area
+preparing all the docs in a specific time interval
