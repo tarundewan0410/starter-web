@@ -12,3 +12,7 @@ demos help us to make more mistakes and lear
 
 making the tasks available to be appearing in the staging and the development area
 preparing all the docs in a specific time interval
+
+## Reoccurance
+
+making teh environment ecorindly for some of the entire nation.
