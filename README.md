@@ -15,4 +15,5 @@ preparing all the docs in a specific time interval
 
 ## Reoccurance
 
-making teh environment ecorindly for some of the entire nation.
+making teh environment ecorindly for some of the entire nation
+the naion is curious to know the outcome of all the legal weapons which are there.
